@@ -1,3 +1,5 @@
+# HEYO ✌️, I'm Joshua DeVille
+
 # 💫 About Me:
 <br>👀 I am Interested in AI, Generative AI, LLMs, and Natural Language Processing.<br>🌱 I graduated with a Bachelor's in Computer Science from Morgan State University<br>💬 I am passionate about building, creating, and problem-solving.<br>⚡ Fun Fact: I grew seven inches one summer.
 
